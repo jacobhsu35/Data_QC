@@ -1,3 +1,6 @@
+# q30.py is forked from git@github.com:dayedepps/q30.git
+
+
 # q30
 A simple script to calculate q20/q30 percentages of a fastq file (can be gzipped)
 ```shell
