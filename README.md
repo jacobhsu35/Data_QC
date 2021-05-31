@@ -1,3 +1,4 @@
+# Undefined source of fastq_info_2.sh
 # q30.py is forked from git@github.com:dayedepps/q30.git
 
 
