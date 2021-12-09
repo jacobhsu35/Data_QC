@@ -7,7 +7,7 @@
 #PBS -M jacobhsu@ntu.edu.tw
 #PBS -m be
 #PBS -j oe
-
+# this line for test
 cd /project/GP1/u3710062/AI_SHARE/GATK/Outputs/20200528_GIAB
 
 fastq1=/work2/u00srx00/DRAGEN/Pipeline_compare/INPUT/NA24695_HG007.R1.fastq  #input 1
